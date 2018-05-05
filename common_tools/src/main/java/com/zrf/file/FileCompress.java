@@ -1,4 +1,4 @@
-package com.zrf.fileZip;
+package com.zrf.file;
 
 import java.io.*;
 import java.util.zip.ZipEntry;
